@@ -1,4 +1,4 @@
-def fib(m):
+def fib_1(m):
     a,b=0,1
     while a<m:
         print(a,end='')
